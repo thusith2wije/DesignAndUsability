@@ -22,5 +22,3 @@ Besides: <br>
 3. Visit the community website.  [https://www.pocketcode.org](https://www.pocketcode.org/). <br>
 4. **Try Pocket Code, Pocket Paint and download a project from the community website.**  <br>
 5. Get access to our Dropbox account by asking a team member (status June, 2013). <br>
-
-
