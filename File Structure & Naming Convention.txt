@@ -1,0 +1,14 @@
+Please stick to this naming conventions:
+
+ - Folders (standard):
+   First letter of a word in uppercase, whitespaces between words e.g. 'Pocket Code'
+
+ - Folders (abbreviation):
+   All letters uppercase e.g. 'PNG'
+
+
+ - Files (application files) e.g. '.psd', '.ai': 
+   First letter of a word in uppercase, whitespaces between words, logical seperator '-' e.g. '1h Bricks - No Plug & Slot.psd'
+
+ - Files (resource files) e.g. '.jpg', '.png':
+   All letters lowercase, '_' (underscore) between words e.g. '1h_brick_no_plug_slot.png'
